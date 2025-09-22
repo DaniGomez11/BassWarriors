@@ -51,7 +51,7 @@ export default function PasswordModal({
         </div>
 
         <p className="text-xs text-gray-500 dark:text-gray-400 mt-2">
-          Demo: admin123
+          Demo: admin1234
         </p>
       </div>
     </div>
