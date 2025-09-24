@@ -186,7 +186,7 @@ export default function App(): JSX.Element {
           {isAdmin && (
             <button
               onClick={() => setEditMode(!editMode)}
-              className={`flex items-center px-4 py-2 rounded-lg font-semibold transition-colors ${
+              className={`flex items-center px-2 py-2 rounded-lg font-semibold transition-colors ${
                 editMode
                   ? "bg-green-500 hover:bg-green-600 text-white"
                   : "bg-gray-500 hover:bg-gray-600 text-white"
