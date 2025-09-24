@@ -95,6 +95,11 @@ const initialUsers: User[] = [
     id: 13,
     name: "VISO",
     payments: { q1: true, q2: true, q3: false, q4: false }
+  },
+  {
+    id: 13,
+    name: "ARNOLD",
+    payments: { q1: true, q2: true, q3: false, q4: false }
   }
 ];
 
